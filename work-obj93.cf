@@ -1,0 +1,19 @@
+v 3
+file . ".\clock.vhd" "20241029010912.000" "20241029020916.157":
+  entity clock at 1( 0) + 0 on 23;
+  architecture clock1 of clock at 13( 357) + 0 on 24;
+file . ".\CTR_99.vhd" "20241028204256.000" "20241029020608.763":
+  entity ctr_99 at 1( 0) + 0 on 19;
+  architecture count99 of ctr_99 at 15( 213) + 0 on 20;
+file . ".\CTR_12.vhd" "20241028202700.000" "20241029020548.414":
+  entity ctr_12 at 1( 0) + 0 on 15;
+  architecture count12 of ctr_12 at 13( 230) + 0 on 16;
+file . ".\stopwatch.vhd" "20241028233406.000" "20241029020620.913":
+  entity stopwatch at 1( 0) + 0 on 21;
+  architecture stopwatch1 of stopwatch at 12( 259) + 0 on 22;
+file . ".\wristwatch.vhd" "20241029000306.000" "20241029014230.026":
+  entity wristwatch at 1( 0) + 1 on 13;
+  architecture wristwatch1 of wristwatch at 14( 389) + 0 on 14;
+file . ".\CTR_59.vhd" "20241028201732.000" "20241029020555.745":
+  entity ctr_59 at 1( 0) + 0 on 17;
+  architecture count59 of ctr_59 at 13( 220) + 0 on 18;
