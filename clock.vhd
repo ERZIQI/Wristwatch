@@ -25,7 +25,7 @@ architecture clock1 of clock is
 		am_pm		: inout bit);
  end component;
  
- signal s59, m59, inchr, incmin, c99, inch_, incm_	: bit;
+ signal s59, m59, inchr, incmin, c99, inch_valid, incm_valid	: bit;
  signal alarm_ring_time								: integer range 0 to 50;
  signal div100										: integer range 0 to 99;
  

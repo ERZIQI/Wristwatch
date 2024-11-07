@@ -1,0 +1,14 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Work_Space/SOC/Wristwatch/CTR_12.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'CTR_12'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Work_Space/SOC/Wristwatch/CTR_59.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'CTR_59'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Work_Space/SOC/Wristwatch/CTR_99.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'CTR_99'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Work_Space/SOC/Wristwatch/clock.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clock'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Work_Space/SOC/Wristwatch/stopwatch.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'stopwatch'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Work_Space/SOC/Wristwatch/wristwatch.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'wristwatch'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Work_Space/SOC/Wristwatch/wristwatch_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'testww'

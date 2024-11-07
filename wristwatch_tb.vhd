@@ -34,7 +34,7 @@ architecture testww1 of testww is
 			count := N1;
 			while count /= 0 loop
 				wait until clk'event and clk = '1';
-				count := count – 1;
+				count := count - 1;
 				wait until clk'event and clk = '0';
 			end loop;
 		end procedure wait1;

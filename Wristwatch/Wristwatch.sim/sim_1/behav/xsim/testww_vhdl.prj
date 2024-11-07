@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../CTR_12.vhd" \
+"../../../../../CTR_59.vhd" \
+"../../../../../CTR_99.vhd" \
+"../../../../../clock.vhd" \
+"../../../../../stopwatch.vhd" \
+"../../../../../wristwatch.vhd" \
+"../../../../../wristwatch_tb.vhd" \
+
+# Do not sort compile order
+nosort
